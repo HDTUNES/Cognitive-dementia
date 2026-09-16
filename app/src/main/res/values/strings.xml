@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cognitive Assistant</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Let\'s set up your profile to get started.</string>
+    <string name="name_label">Your Name</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="dob_label">Date of Birth</string>
+    <string name="continue_button">Continue</string>
+    <string name="calm_preparation_title">Prepare Your Mind</string>
+    <string name="calm_preparation_subtitle">Take three calm breaths before we begin</string>
+    <string name="breathe_in">Breathe in…</string>
+    <string name="breathe_out">Breathe out…</string>
+    <string name="breathe_ready">Feeling centered and ready</string>
+    <string name="home_title">Daily Focus</string>
+    <string name="improve_cognition_title">Improve Your Cognition</string>
+    <string name="practice_subtitle">Personalized cognitive activities are being prepared for you.</string>
+    <string name="i_drank_water">I drank water</string>
+    <string name="water_recorded">Water intake recorded</string>
+    <string name="settings_title">Settings</string>
+</resources>

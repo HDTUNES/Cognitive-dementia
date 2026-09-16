@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Assistant",
+  "description": "Clean, minimal foundation for adaptive cognitive-assistance, daily routine preparation, and hydration tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
